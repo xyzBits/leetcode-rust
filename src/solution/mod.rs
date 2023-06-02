@@ -9,3 +9,4 @@ mod s0004_median_of_two_sorted_arrays;
 mod s0005_longest_palindromic_substring;
 mod s0007_reverse_integer;
 mod s0704_binary_search;
+mod s_0088_merge_sorted_array;
